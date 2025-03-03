@@ -55,4 +55,4 @@ I do not give permission to present any of my projects as your own (this is bein
   To get the contact form working create an AWS account and set up SES (Simple Email service). Then plug in your details into `.dev.vars.example` and rename it to `.dev.vars`. You'll also need to add these as enviroment variables in the Cloudflare dashboard for it to work in production. Or if you don't mind sending through gmail use [nodemailer](https://nodemailer.com/) instead.
 </details>
 
-This edit is for IBM lesson
+This edit is for IBM lesson new
